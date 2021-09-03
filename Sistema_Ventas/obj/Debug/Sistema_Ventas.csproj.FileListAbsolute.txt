@@ -1,0 +1,85 @@
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe.config
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.pdb
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\bin\Debug\MySql.Data.dll
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\bin\Debug\MySql.Data.xml
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csprojResolveAssemblyReference.cache
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmLogin.resources
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPrincipal.resources
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.Properties.Resources.resources
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csproj.GenerateResource.Cache
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.exe
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.pdb
+c:\users\giro-\documents\visual studio 2012\Projects\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPuestos.resources
+E:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe.config
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.exe
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.pdb
+E:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe
+E:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.pdb
+E:\Sistema_Ventas\Sistema_Ventas\bin\Debug\MySql.Data.dll
+E:\Sistema_Ventas\Sistema_Ventas\bin\Debug\MySql.Data.xml
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csprojResolveAssemblyReference.cache
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmLogin.resources
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPrincipal.resources
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPuestos.resources
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.Properties.Resources.resources
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csproj.GenerateResource.Cache
+D:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe.config
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.exe
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.pdb
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csprojResolveAssemblyReference.cache
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmLogin.resources
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPrincipal.resources
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPuestos.resources
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.Properties.Resources.resources
+D:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csproj.GenerateResource.Cache
+D:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe
+D:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.pdb
+H:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe.config
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.exe
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.pdb
+H:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe
+H:\Sistema_Ventas\Sistema_Ventas\bin\Debug\Sistema_Ventas.pdb
+H:\Sistema_Ventas\Sistema_Ventas\bin\Debug\MySql.Data.xml
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csprojResolveAssemblyReference.cache
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmLogin.resources
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPrincipal.resources
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPuestos.resources
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.Properties.Resources.resources
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.csproj.GenerateResource.Cache
+H:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmEmpleados.resources
+H:\Sistema_Ventas\Sistema_Ventas\bin\Debug\MySql.Data.dll
+E:\Sistema_Ventas\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmEmpleados.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe.config
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.exe
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.pdb
+E:\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe
+E:\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\Sistema_Ventas.pdb
+E:\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\MySql.Data.dll
+E:\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\MySql.Data.xml
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.csprojResolveAssemblyReference.cache
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmLogin.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmEmpleados.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPrincipal.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmProductos.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPuestos.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.Properties.Resources.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.csproj.GenerateResource.Cache
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmMarcas.resources
+E:\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmProveedor.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe.config
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.exe
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.pdb
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\Sistema_Ventas.exe
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\Sistema_Ventas.pdb
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\bin\Debug\MySql.Data.xml
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.csprojResolveAssemblyReference.cache
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmLogin.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmEmpleados.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmMarcas.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPrincipal.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmProductos.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmProveedor.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.frmPuestos.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.Properties.Resources.resources
+C:\Users\L30N4RD0\Desktop\Sistema_Ventas - copia\Sistema_Ventas\obj\Debug\Sistema_Ventas.csproj.GenerateResource.Cache
